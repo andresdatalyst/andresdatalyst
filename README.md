@@ -23,7 +23,7 @@ Actualmente busco **oportunidades como Data Analyst** donde pueda aportar valor 
 
 ### 📊 Análisis de Datos
 - **SQL** (PostgreSQL, consultas avanzadas, optimización)
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white) (Pandas, NumPy, Matplotlib, Seaborn)
 - **Power BI** (dashboards, DAX, modelado de datos)
 - **Excel avanzado**
 
