@@ -22,18 +22,23 @@ Actualmente busco **oportunidades como Data Analyst** donde pueda aportar valor 
 ## 🛠️ Stack Tecnológico
 
 ### 📊 Análisis de Datos
-- **SQL** (PostgreSQL, consultas avanzadas, optimización)
+- ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=postgresql&logoColor=white) (PostgreSQL, consultas avanzadas, optimización)
 - ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white) (Pandas, NumPy, Matplotlib, Seaborn)
-- **Power BI** (dashboards, DAX, modelado de datos)
-- **Excel avanzado**
+- ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black) (dashboards, DAX, modelado de datos)
+- ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white)
 
 ### ☁️ Cloud & Data
-- **Google Cloud Platform (GCP)**
+- ![GCP](https://custom-icon-badges.demolab.com/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white)
+- ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)
+- ![Google Cloud](https://custom-icon-badges.demolab.com/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white)
 - Integración, transformación y automatización de datos
 - Procesos ETL
+- Uso y configuración de servidores en nube
 
 ### 🗺️ GIS & Bases de Datos
-- **PostgreSQL / PostGIS**
+- ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white)
+- ![PostGIS](https://custom-icon-badges.demolab.com/badge/PostGIS-336791.svg?logo=postgresql&logoColor=white)
+- ![QGIS](https://custom-icon-badges.demolab.com/badge/QGIS-589632.svg?logo=qgis&logoColor=white)
 - Análisis y visualización de datos espaciales
 - ArcMap & QGIS
 - Automatización de procesos GIS
@@ -41,29 +46,32 @@ Actualmente busco **oportunidades como Data Analyst** donde pueda aportar valor 
 ### 💻 Desarrollo Web (Full-Stack)
 
 **Frontend**
-- **Angular**
-- HTML5, CSS3, TypeScript
+- ![Angular](https://custom-icon-badges.demolab.com/badge/Angular-DD0031.svg?logo=angular&logoColor=white)
+- ![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+- ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+- ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 - Consumo de APIs REST
 - Arquitectura de componentes
 - Buenas prácticas de UX/UI
 
 **Backend**
-- **Spring Boot (Java)**
-- **.NET (C#)** con patrón **MVC**
+- ![Spring Boot](https://custom-icon-badges.demolab.com/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white) 
+- ![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white)
+- ![.NET](https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white)
+- ![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?logo=csharp&logoColor=white)
 - Desarrollo de **APIs REST**
 - Lógica de negocio y validaciones
 - Integración con bases de datos relacionales
 
 **Bases de Datos**
-- PostgreSQL
-- MYSQL
 - Modelado de datos
 - Consultas complejas y optimización
 
 **Arquitectura & Herramientas**
 - Patrón **MVC**
 - Separación de capas
-- Git & GitHub
+- ![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white)
+- ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white)
 - Automatización de procesos
 - Entornos de desarrollo y despliegue
 
