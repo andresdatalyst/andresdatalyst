@@ -101,7 +101,7 @@ Cada proyecto incluye:
 - Gestión de datos de audiencia y engagement
 
 ### 💻 Desarrollador Web | Claro Telecomunicaciones (2022)
-- Desarrollo web con **Angular, Spring Boot y .NET MVC**
+- Desarrollo web con **REACT y LARAVEL**
 - Trabajo con **PostgreSQL y PostGIS**
 - Desarrollo de soluciones GIS
 
